@@ -1,0 +1,46 @@
+# Ignore work directory
+work/
+
+# Ignore results directory
+results/
+.nextflow*
+
+# Ignore log files
+*.log
+.nextflow.log*
+timeline*.html
+report*.html
+trace*.txt
+dag*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Conda
+.conda/
+
+# Testing
+.pytest_cache/
+tests/data/
+
+# Temporary files
+*.tmp
+*.temp
