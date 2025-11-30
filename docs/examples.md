@@ -380,5 +380,5 @@ nextflow run main.nf \
 ## Suporte
 
 Para mais exemplos ou dúvidas:
-- Abra uma [issue](https://github.com/seu-usuario/nextflow-case/issues)
-- Consulte a [documentação](https://github.com/seu-usuario/nextflow-case)
+- Abra uma [issue](https://github.com/madsondeluna/nextflow-case/issues)
+- Consulte a [documentação](https://github.com/madsondeluna/nextflow-case)

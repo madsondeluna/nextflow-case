@@ -26,7 +26,7 @@ sudo mv nextflow /usr/local/bin/
 ### Clone do Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nextflow-case.git
+git clone https://github.com/madsondeluna/nextflow-case.git
 cd nextflow-case
 ```
 
@@ -273,7 +273,7 @@ singularity pull docker://biocontainers/macrel:1.2.0--py39h6935b12_0
 - **Documentação Nextflow**: https://www.nextflow.io/docs/latest/
 - **Macrel**: https://github.com/BigDataBiology/macrel
 - **HMMER**: http://hmmer.org/
-- **Issues**: https://github.com/seu-usuario/nextflow-case/issues
+- **Issues**: https://github.com/madsondeluna/nextflow-case/issues
 
 ## Suporte
 

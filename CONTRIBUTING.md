@@ -6,7 +6,7 @@ Obrigado por considerar contribuir para o AMPscan! 🎉
 
 ### Reportar Bugs
 
-Se você encontrar um bug, por favor abra uma [issue](https://github.com/seu-usuario/nextflow-case/issues) incluindo:
+Se você encontrar um bug, por favor abra uma [issue](https://github.com/madsondeluna/nextflow-case/issues) incluindo:
 
 - Descrição clara do problema
 - Passos para reproduzir
@@ -183,7 +183,7 @@ Ao contribuir, você concorda que suas contribuições serão licenciadas sob a 
 
 ## Dúvidas?
 
-Abra uma [issue](https://github.com/seu-usuario/nextflow-case/issues) ou entre em contato!
+Abra uma [issue](https://github.com/madsondeluna/nextflow-case/issues) ou entre em contato!
 
 ---
 

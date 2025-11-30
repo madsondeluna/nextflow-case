@@ -38,4 +38,4 @@ e este projeto adere ao [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - Biopython v1.79
 - MultiQC
 
-[1.0.0]: https://github.com/seu-usuario/nextflow-case/releases/tag/v1.0.0
+[1.0.0]: https://github.com/madsondeluna/nextflow-case/releases/tag/v1.0.0

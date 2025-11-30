@@ -16,7 +16,7 @@ Siga as instruções em: https://docs.docker.com/get-docker/
 ### 3. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nextflow-case.git
+git clone https://github.com/madsondeluna/nextflow-case.git
 cd nextflow-case
 ```
 

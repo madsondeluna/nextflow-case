@@ -40,7 +40,7 @@ O pipeline executa as seguintes etapas principais:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nextflow-case.git
+git clone https://github.com/madsondeluna/nextflow-case.git
 cd nextflow-case
 
 # Teste a instalação
